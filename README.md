@@ -1,20 +1,19 @@
 👋 Hi, I'm Hirwa Christian
 
-I'm a Software Engineer focused on writing clean, efficient code and building simple, effective solutions.
+I'm a Software Engineer dedicated to writing clean, efficient, and maintainable code. I’m passionate about using technology to solve real-world problems and build meaningful digital experiences. I enjoy turning ideas into scalable, user-focused software solutions that work seamlessly in practice.
 
 🌟 About Me
 
-I enjoy solving real-world problems with code. I’m focused on backend and full-stack development using modern tools and languages.
+I’m passionate about building software that’s both functional and impactful. My main focus is on backend and full-stack development, where I design and develop systems that are reliable, scalable, and easy to maintain.
+
+I enjoy solving complex problems through simple, elegant code and continuously learning new technologies to expand my skill set. I believe that great software comes from clear thinking, collaboration, and a strong commitment to quality.
 
 🚀 Tech I Use
 
-Java & Spring Boot
-
-Python
-
-HTML & CSS
-
-C#
+💻 Java & Spring Boot
+🐍 Python
+🌐 HTML & CSS
+⚙️ C#
 
 📫 Contact Me
 
