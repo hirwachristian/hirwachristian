@@ -1,14 +1,14 @@
-👋 Hi, I'm Hirwa Christian
+## 👋 Hi, I'm Hirwa Christian
 
 I'm a Software Engineer dedicated to writing clean, efficient, and maintainable code. I’m passionate about using technology to solve real-world problems and build meaningful digital experiences. I enjoy turning ideas into scalable, user-focused software solutions that work seamlessly in practice.
 
-🌟 About Me
+## 🌟 About Me
 
 I’m passionate about building software that’s both functional and impactful. My main focus is on backend and full-stack development, where I design and develop systems that are reliable, scalable, and easy to maintain.
 
 I enjoy solving complex problems through simple, elegant code and continuously learning new technologies to expand my skill set. I believe that great software comes from clear thinking, collaboration, and a strong commitment to quality.
 
-🚀 Tech I Use
+## 🚀 Tech I Use
 
 💻 Java & Spring Boot
 
