@@ -11,8 +11,11 @@ I enjoy solving complex problems through simple, elegant code and continuously l
 🚀 Tech I Use
 
 💻 Java & Spring Boot
+
 🐍 Python
+
 🌐 HTML & CSS
+
 ⚙️ C#
 
 📫 Contact Me
