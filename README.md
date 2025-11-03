@@ -18,7 +18,7 @@ I enjoy solving complex problems through simple, elegant code and continuously l
 
 ⚙️ C#
 
-📫 Contact Me
+## 📫 Contact Me
 
 📧 hirwac69@gmail.com
 
